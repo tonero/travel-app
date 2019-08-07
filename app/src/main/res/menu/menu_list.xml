@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="nytech.com.travelmantics.DealActivity" >
+    <item android:id="@+id/action_log_out"
+        app:showAsAction="never"
+        android:title="@string/action_logout" />
+    <!--<item android:id="@+id/action_insert_deal"-->
+        <!--app:showAsAction="never"-->
+        <!--android:title="@string/action_insert_deal" />-->
+
+</menu>

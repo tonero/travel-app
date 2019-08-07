@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="action_save">Save</string>
+    <string name="action_insert_deal">Add a New deal</string>
+    <string name="action_logout">Log-out</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_upload">Upload Image</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Deal Price</string>
+    <string name="description_hint">Deal Description</string>
+    <string name="no_deals">There are no deals that have a title at this point in time</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="travel_deal_avatar">Travel deal avatar</string>
+    <string name="deal_description">Deal Description</string>
+</resources>

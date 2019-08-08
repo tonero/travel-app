@@ -10,7 +10,7 @@ Using FirebaseUi Login a user can signup/login using either an email or via soci
 
 Consists of an admin user interface which allows admins to create, edit,view  and delete various deals.
 
-![Admin User Interface](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-00-12-08.png)
+![Admin User Interface](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-09-59-58.png)
 ![Admin User Interface](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-00-11-54.png)
 
 

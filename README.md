@@ -16,8 +16,13 @@ Consists of an admin user interface which allows admins to create, edit,view  an
 
 A normal user's user interface a normal user to view deals created by an admin 
 
-![Normal Users User Interfaec](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-09-59-58.png)
-![Normal Users User Interfaec](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-10-00-06.png)
+![Normal Users User Interface](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-09-59-58.png)
+![Normal Users User Interface](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-10-00-06.png)
+
+Lastly a user can log out
+
+![Normal Users User Interfaec](https://github.com/tonero/travel-app/blob/master/Screenshot_2019-08-08-00-12-08.png)
+
 
 
 admin-user-email/password:admin@admin.com/password1
